@@ -1,4 +1,4 @@
-package com.example;
+package com.library.core;
 
 public class Main {
     public static void main(String[] args) {
