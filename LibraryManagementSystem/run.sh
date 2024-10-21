@@ -1,0 +1,1 @@
+java -cp library-services/target/library-services-1.0.jar:library-core/target/library-core-1.0.jar com.library.services.Main

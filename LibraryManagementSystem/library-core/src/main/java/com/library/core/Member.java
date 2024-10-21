@@ -1,6 +1,6 @@
 package com.library.core;
 public class Member {
-    public void addMember(String title) {
+    public static void addMember(String title) {
         System.out.println("Added member");
     }
 
